@@ -1,3 +1,52 @@
 *{
     margin: 0;
 }
+
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 96%;
+    margin-top: 10px;
+}
+
+.header-B{
+    display: flex;
+    gap: 30px;
+}
+
+.header-A{
+    display: flex;
+}
+
+.header-A img{
+    width: 20%;
+}
+
+.header-C{
+    border: 1px solid ;
+    padding: px 3px;
+    background-color: #0267FC;
+    color: white;
+    
+}
+
+
+
+.main{
+    margin: auto;
+}
+
+
+.main-A{
+margin: auto;
+width: 80%;
+margin-top: 100px;
+}
+
+.main-B h1{
+    width: 40%;
+}
+
+.main-B p{
+    width: 38%;
+}
