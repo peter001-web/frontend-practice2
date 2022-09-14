@@ -161,6 +161,7 @@ font-size: 30px;
     gap: 30px;
     align-items: center;
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .main-H p{
@@ -198,4 +199,23 @@ font-size: 30px;
     margin-bottom: 10px;
     font-size: 30px;
 }
+
+
+.main-J p{
+    width: 90%;
+    font-size: 17px;
+    line-height: 1.3em;
+}
+
+
+
+.main-J p{
+    margin-bottom: 10px;
+}
+
+.main-J h2{
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
 
