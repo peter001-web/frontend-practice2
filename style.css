@@ -218,4 +218,48 @@ font-size: 30px;
     font-size: 30px;
 }
 
+hr{
+    width: 80%;
+    margin: auto;
+}
 
+
+.DT-1 img{
+    width: 40%;
+    /* margin-left: 70px; */
+}
+
+.DT-1{
+    display: flex;
+}
+
+.DT{
+    display: flex;
+    /* margin: auto; */
+    margin-left: 200px;
+    width: 60%;
+    margin-bottom: 300px;
+    gap: 40px;
+}
+
+.DT-1 p{
+    width: 100%;
+}
+
+.DT-2{
+    display: flex;
+}
+
+
+.DT-2 img{
+    width: 40%;
+}
+
+
+.DT-2 p{
+    width: 100%;
+}
+
+.DT-2{
+    display: flex;
+}
