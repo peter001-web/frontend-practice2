@@ -180,3 +180,22 @@ font-size: 30px;
     font-size: 30px;
 }
 
+.main-I{
+    display: flex;
+    margin: auto;
+    width: 70%;
+    gap: 40px;
+    margin-top: 90px;
+}
+
+.main-I p{
+    width: 95%;
+    font-size: 17px;
+    line-height: 1.3em;
+}
+
+.main-I h2{
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
