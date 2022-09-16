@@ -1,6 +1,7 @@
 *{
     margin: 0;
     /* border: 1px solid red; */
+    box-sizing: border-box;
 }
 
 body{
@@ -324,3 +325,25 @@ footer{
     width: 100%;
 }
 
+
+
+
+.p {
+    /* width: 10%; */
+   
+    /* background-color: red; */
+    position: relative;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-delay: 0s;
+    animation-iteration-count: 3;
+
+  }
+  
+  @keyframes example {
+    0%   {background-color:white; left:0px; top:0px;}
+    25%  {background-color:white; left:200px; top:0px;}
+    50%  {background-color:white; left:200px; top:200px;}
+    75%  {background-color:white; left:0px; top:50px;}
+    100% {background-color:white; left:0px; top:0px;}
+  }
