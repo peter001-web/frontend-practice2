@@ -291,6 +291,19 @@ hr{
 
 
 footer img{
-    width: 10%;
+    width: 50%;
+}
+
+footer{
+    background-color:#E7FDFF;
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 100px;
+    /* margin: auto; */
+}
+
+.foot-1{
+    margin-left: 200px;
+    margin-top: 50px;
 }
 
