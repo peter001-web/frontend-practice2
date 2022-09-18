@@ -12,8 +12,10 @@ body{
 header{
     display: flex;
     justify-content: space-between;
-    width: 96%;
-    margin-top: 10px;
+    width: 100%;
+    margin-top: -100px;
+    background-color: white;
+    position: fixed;
 }
 
 .header-B{
@@ -21,19 +23,34 @@ header{
     gap: 30px;
 }
 
+.header-B h4{
+    font-size: 22px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
 .header-A{
     display: flex;
+}
+
+.header-A h2{
+    font-size: 35px;
+    padding: 10px;
 }
 
 .header-A img{
     width: 20%;
 }
 
-.header-C{
+.header-C button{
     border: 1px solid ;
-    padding: px 3px;
+    margin-top: 10px;
+    padding: 10px 20px;
     background-color: #0267FC;
     color: white;
+    font-size: 19px;
+    /* align-items: center; */
+    cursor: pointer;
     
 }
 
