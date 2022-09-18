@@ -27,6 +27,7 @@ header{
     font-size: 22px;
     padding: 10px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .header-A{
@@ -58,24 +59,28 @@ header{
 
 .main{
     margin: auto;
+    /* margin-top: 50px; */
 }
 
 
 .main-A{
 margin: auto;
-width: 70%;
+width: 80%;
 margin-top: 100px;
 display: flex;
 }
 
 .main-B h1{
-    width: 70%;
+    width: 100%;
+    font-size: 50px;
 }
 
 .main-B p{
-    width: 71%;
+    width: 90%;
     line-height: 1.5em;
     margin-top:5px;
+    font-family: var(--font-family-text,"Charlie Text",sans-serif);
+    font-size: 20px;
 }
 
 
@@ -86,14 +91,17 @@ display: flex;
 }
 
 .main-C input{
-    padding: 5px ;
-    width: 230px;
+    padding: 15px ;
+    width: 300px;
 }
 
 .main-C h4{
-    /* align-items: center; */
+    align-items: center;
+    cursor: pointer;
+    font-size: 20px;
     border: 1px solid ;
-    padding: 5px 20px;
+    padding: 0px 20px;
+    padding-top: 10px;
     color: white;
     background-color: #0267FC;
     border-radius: 6px;
@@ -115,9 +123,10 @@ display: flex;
 
 .main-E h2{
     margin: auto;
-    width: 60%;
-    font-size: 30px;
+    width: 90%;
+    font-size: 40px;
     color: #617894;
+    margin-left: 150px;
 }
 
 .main-E p{
