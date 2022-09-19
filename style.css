@@ -131,24 +131,30 @@ display: flex;
 
 .main-E p{
     margin: auto;
-    width: 60%;
-    font-size: large;
+    width: 90%;
+    font-size: 23px;
     margin-top: 10px;
 }
 
 .main-E h4{
     margin: auto;
-    width: 100px;
-    color: #C8D9FE;
+    background-color: #0267FC ;
+    border-radius: 5px;
+    cursor: pointer;
+    /* width: 150px; */
+    color: white;
     border: 1px solid #AFBAF7;
-    padding: 5px 8px ;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    padding: 10px 15px ;
+    font-size: 20px;
+    width: 11%;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 .main-E img{
     margin: auto;
-    margin-left: 170px;
+    margin-left: 100px;
+    width: 80%;
 }
 
 .main-E h3{
