@@ -302,34 +302,38 @@ hr{
 
 .DT-1{
     display: flex;
-    
+}
+
+.ww{
+    margin-left: 100px;
 }
 
 .DT{
     display: flex;
     /* margin: auto; */
-    margin-left: -70px;
+    margin-left: -50px;
     width: 100%;
     margin-bottom: 130px;
     gap: 40px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .DT-1 p{
-    width: 80%;
+    width: 100%;
     margin-top: 5px;
     line-height: 1.5em;
-    margin-bottom: 10px;
     font-size: 16px;
     font-family: sans-serif;
     color: #091E42;
     gap: 40px;
+    margin-bottom: 20px;
 }
 
 .DT-1 h3{
     color: #091E42;
     font-size: 24px;
     font-family: sans-serif;
+    margin-bottom: 20px;
 }
 
 
@@ -345,6 +349,7 @@ hr{
     margin-top: 5px;
     line-height: 1.3em;
     margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .DT-2{
@@ -392,10 +397,10 @@ hr{
 
 .DT-3 p{
    
-    width:90%;
+    width:80%;
     margin-top: 5px;
     line-height: 1.5em;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
     font-size: 16px;
     font-family: sans-serif;
     color: #091E42;
