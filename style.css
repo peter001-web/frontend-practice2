@@ -449,7 +449,7 @@ footer img{
 footer{
     background-color:#E7FDFF;
     margin-top: 50px;
-    display: flex;
+    /* display: flex; */
     margin-bottom: 100px;
     /* margin: auto; */
 }
@@ -457,20 +457,70 @@ footer{
 .foot-1{
     margin-left: 200px;
     margin-top: 40px;
-    margin-bottom: 100px;
+    /* margin-bottom: 00px; */
 }
 
 .foot-2 h2{
-    width: 65%;
-    margin-top: 50px;
-    font-size: 30px;
-    line-height: 1.4em;
+    width: 60%;
+    /* margin-top: 400px; */
+    font-family: sans-serif;
+    font-size: 34px;
+    color: #091E42;
+    line-height: 1.5em;
+    margin: auto;
+
 }
 
+
 .foot-3{
-    margin-left: 400px;
-    margin-top: 10px;
+    margin-left: 270px;
+    display: flex;
+    /* margin: auto; */
+    margin-top: 30px;
+    gap: 60px;
 }
+
+.foot-3 h4{
+    font-family: sans-serif;
+    color: #091E42;
+    font-size: 16px;
+}
+
+.foot-4{
+    display: flex;
+}
+
+.foot-4 h5{
+    font-family: sans-serif;
+    color: #091E42;
+    font-size: 16px;
+}
+
+.foot-4 h6{
+    /* font-family: sans-serif; */
+    /* color: #091E42; */
+    font-size: 17px;
+    margin-bottom: 150px;
+}
+
+
+.foot-5{
+    display: flex;
+}
+
+.foot-5 h6{
+    font-family: sans-serif;
+    color: #091E42;
+    font-size: 16px;
+}
+
+.foot-5 h5{
+    /* font-family: sans-serif; */
+    /* color: #091E42; */
+    font-size: 17px;
+    margin-bottom: 150px;
+}
+
 
 .hr-2{
     width: 100%;
