@@ -285,7 +285,7 @@ color: #091E42;
 }
 
 hr{
-    width: 70%;
+    width: 90%;
     margin: auto;
     margin-top: 50px;
 }
@@ -313,7 +313,7 @@ hr{
     /* margin: auto; */
     margin-left: -50px;
     width: 100%;
-    margin-bottom: 130px;
+    margin-bottom: 120px;
     gap: 40px;
     margin-top: 30px;
 }
@@ -339,21 +339,26 @@ hr{
 
 
 .DT-2 img{
-    width: 80%;
+    width: 130%;
     margin-top: 20px;
 }
 
 
 .DT-2 p{
-    width: 100%;
+    width:90%;
     margin-top: 5px;
-    line-height: 1.3em;
-    margin-bottom: 10px;
+    line-height: 1.5em;
+    /* margin-bottom: 10px; */
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #091E42;
     margin-bottom: 20px;
+    gap: 40px;
 }
 
 .DT-2{
     display: flex;
+    gap: 30px;
 }
 
 .DT-1 button{
@@ -369,11 +374,25 @@ hr{
     font-family: sans-serif;
 }
 
-.DT-2 h4{
-    border: 1px solid #6577DD;
-    color: #6577DD;
-    width: 42%;
+.DT-2 button{
+    color:white;
+    background-color: #0065FF;
+    /* width: 42%; */
     padding: 5px 10px;
+    border-radius: 6px;
+    border-style: none;
+    cursor: pointer;
+    padding: 11.2px 16px 12.8px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.DT-2 h3{
+    color: #091E42;
+    font-size: 24px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+
 }
 
 
