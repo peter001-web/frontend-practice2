@@ -526,25 +526,58 @@ footer{
     width: 100%;
 }
 
+.foot-6{
+    border: 1px solid;
+    width: 80%;
+    margin: auto;
+}
+
+.foot-7{
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+    gap: 10px;
+}
+
+.foot-7 input{
+    border-radius: 5px;
+    border-style: none;
+    padding: 20px ;
+    width: 400px;
+}
+
+.foot-7 h4{
+    border: 1px solid;
+    background-color: white;
+    color:#172B4D;
+    padding-top: 15px ;
+    font-family: sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.foot-8 h2{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.foot-6{
+    padding-top: 2rem;
+    padding-left: 5rem;
+    background: linear-gradient(rgb(64, 50, 148), rgb(76, 154, 255)) no-repeat;
+    color: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
 
 
 
-.p {
-    /* width: 10%; */
-   
-    /* background-color: red; */
-    position: relative;
-    animation-name: example;
-    animation-duration: 5s;
-    animation-delay: 0s;
-    animation-iteration-count: 3;
 
-  }
-  
-  @keyframes example {
-    0%   {background-color:white; left:0px; top:0px;}
-    25%  {background-color:white; left:200px; top:0px;}
-    50%  {background-color:white; left:200px; top:200px;}
-    75%  {background-color:white; left:0px; top:50px;}
-    100% {background-color:white; left:0px; top:0px;}
-  }
+
+
