@@ -629,6 +629,10 @@ footer{
     margin-bottom: 30px;
 }
 
+.dd{
+    color: white;
+}
+
 .sub-2{
     border: 1px solid;
     /* margin-bottom: 100px; */
